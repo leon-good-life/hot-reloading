@@ -6,4 +6,5 @@ I created this repository - to create hot reloading in a small project first, an
 * I used the same versions of `webpack`, `webpack-cli`, `webpack-dev-server`, `babel-loader`, `html-webpack-plugin` as in Cloudify-Stage.
 * I created  [multiple webpack configuration](https://webpack.js.org/configuration/configuration-types/#exporting-multiple-configurations) in this project.
 
+## Demo
 [![Demo](https://user-images.githubusercontent.com/17104212/142770058-f631f846-27fb-45a5-80b3-e830c3f60167.png)](https://vimeo.com/648290062 "Hot Reloading with Multiple Webpack Configuration")
